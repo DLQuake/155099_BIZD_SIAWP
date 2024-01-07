@@ -5,4 +5,8 @@
 - Numer indeksu: 155099
 
 ## Wstępna Struktura bazy danych
-![Struktura bazy danych](./img/StrukruraBazyDanych.png)
+![Struktura bazy danych](./img/Diargam.drawio.png)
+
+## Repozytorium dla projektu
+
+https://github.com/DLQuake/Prognoza-pogody-django
